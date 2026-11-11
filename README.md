@@ -5,9 +5,9 @@
 ## Anggota Kelompok
 | Nama | NIM |
 |------|-----|
-| (isi) | (isi) |
-| (isi) | (isi) |
-| (isi) | (isi) |
+| Muhammad Fizhuka Ihza | 101012330399 |
+| Muhamad Ridho Aulia | 101012300085 |
+| Muhammad Nabil N.S | 101012300147 |
 
 ## Arsitektur
 
